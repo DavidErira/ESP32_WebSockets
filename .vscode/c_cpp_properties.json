@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\DAVID ERIRA\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\DAVID ERIRA\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\arduinoWebSockets-master\\src",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\ESPAsyncWebServer-master\\src",
+                "C:\\Users\\DAVID ERIRA\\Documents\\Arduino\\libraries\\AsyncTCP-master\\src"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
+
